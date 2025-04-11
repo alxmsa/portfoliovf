@@ -1,0 +1,301 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.d-flex {
+    display: flex;
+}
+
+header {
+    height: 600px;
+    box-sizing: border-box;
+}
+
+.justify-content-between {
+    box-sizing: border-box;
+    justify-content: space-between;
+    height: 70px;
+}
+
+.lorem-top-left {
+    text-transform: uppercase;
+    justify-content: flex-start;
+    font-size: 15px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.flex-end {
+    width: 60px;
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+    padding: 15px 20px ;
+}
+
+.border {
+    justify-content: center;
+    background-color: #562fbc;
+    height: 530px;
+}
+
+.img-header {
+    height: 350px;
+    width: auto;
+    padding: 90px 20px;
+}
+
+.prepare {
+    -webkit-box-shadow: 0px 0px 11px -1px rgba(86,47,188,0.83), 0px 0px 11px -1px rgba(86,47,188,0.83); 
+box-shadow: 0px 0px 11px -1px rgba(86,47,188,0.83), 0px 0px 11px -1px rgba(86,47,188,0.83);
+}
+
+.lorem-htwo {
+    color: white;
+    padding: 140px 0;
+}
+
+h2 {
+    width: max-content;
+    background-color: #113664;
+    padding: 5px;
+}
+
+#texte-lorem {
+    margin: 10px 0;
+    width: 600px;
+
+}
+
+#paratwo {
+    height: 20px;
+    width: 100px;
+    padding: 20px ;
+    margin-top: 30px;
+    transition-duration: 0.4s;
+    border-radius: 15px;
+    background-color: #e85367;
+    color: #ffffff;
+}
+
+#ensavoirpls {
+    color: white;    
+    text-decoration: none;
+}
+
+#ensavoirpls:hover {
+    color: #c41e34;
+}
+
+#paratwo:hover {
+    background-color: #ffffff;
+    color: #c41e34; 
+}
+
+                        /* SECTION 1*/
+
+.section-one {
+    height: 480px;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.p-one {
+    width: 60%;
+    text-align: center;
+    margin: 30px 20%;
+    font-size: 20px;
+}
+
+.lorem-vingt {
+    justify-content: center;
+}
+
+.twenty-color {
+    font-size: 60px;
+    margin: 20px 60px;
+}
+
+.first {
+    color: #3a88f7;
+}
+
+.second {
+    color: #7971f7;
+}
+
+.third {
+    color: #ae6bf0;
+}
+
+.fourth {
+    color: #bc63d9;
+}
+
+.p-two {
+    margin-top: 40px;
+    font-size: 30px;
+}
+
+.p-three {
+   font-size: 20px;
+}
+
+.p-four {
+    margin-top: 100px;
+}
+
+                /* SECTION 2*/
+.section-two {
+    height: 1350px;
+}
+
+h4 {
+    text-transform: uppercase;
+    color: #ef7887;
+    margin-top: 180px;
+}
+
+.confissweb {
+    justify-content: center;
+}
+
+.width-same {
+    width: 500px
+}
+
+.p-one-sectiondeux {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-header2 {
+    height: 350px;
+    width: auto;
+    padding: 50px 20px;
+}
+
+.img-header3 {
+    height: 350px;
+    width: auto;
+    padding: 50px 20px;
+}
+
+                    /* SECTION 3*/
+
+.section-three {
+    height: 1000px;
+    background-color: #f0f0f0;
+    width: 100%;
+}
+
+.img-html {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.pleasework {
+    height: 500px;
+    justify-content: center;
+}
+
+.enfinjaicompris {
+    border-radius: 15px;
+    background-color: #ffffff;
+    height: 350px;
+    width: 300px;
+    margin-top: 150px;
+}
+
+.enfinjaicompris2 {
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-left: 150px;
+    height: 350px;
+    width: 300px;
+    margin-top: 150px;
+}
+
+.enfin-lorem {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 15px;
+}
+
+.situsavais {
+    color: rgb(138, 138, 138);
+    padding: 15px;
+    font-size: 17px;
+}
+
+.enfinjaicompris4 {
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-top: 50px;
+    height: 350px;
+    width: 300px;
+}
+
+.enfinjaicompris5 {
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-top: 50px;
+    margin-left: 150px;
+    height: 350px;
+    width: 300px;
+}
+
+/* FOOTER */
+
+footer {
+    height: 300px;
+    margin-top: 100px;
+}
+
+.cestlafinbg {
+    margin: 20px 100px;
+    font-size: 18px;
+}
+
+.plusqueunpas {
+    background-color: #c6c6c6;
+    width: 90%;
+    justify-content: space-between;
+    margin-left: 5%;
+}
+
+.img-footer-1 {
+    padding-left: 90px;
+    padding-right: 10px;
+    
+}
+
+.img-footer {
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.div-img-footer{
+    width: 300px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.img-footer2 {
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 40px;
+}
+
+.cestlafinbg2 {
+    margin: 20px 0;
+    font-size: 18px;
+}
